@@ -5,6 +5,7 @@ export default function Home() {
   return (
     <div style={{ textAlign: 'center', padding: '3rem 1rem' }}>
       <h1>Welcome to My Personal Portfolio</h1>
+      <p>I study Software Engineering Technology at Centennial College. Explore my projects to see how I use React, databases, and cloud deployment together.</p>
       <p style={{ fontSize: '1.2rem', maxWidth: '600px', margin: '1.5rem auto' }}>
         <strong>Mission Statement:</strong> Dedicated to building accessible, high-performance web solutions and full-stack software applications through clean code and modern design practices.
       </p>
