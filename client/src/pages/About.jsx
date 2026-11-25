@@ -1,5 +1,5 @@
 import React from 'react';
-import profilePic from '../assets/profile.jpg';
+import profilePic from '../assets/profile.webp';
 import resumePdf from '../assets/resume.pdf';
 
 export default function About() {
