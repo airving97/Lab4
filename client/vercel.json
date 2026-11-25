@@ -1,0 +1,12 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:path*",
+      "destination": "https://myportfolio-backend-69jp.onrender.com/api/:path*"
+    },
+    {
+      "source": "/:page(about|projects|education|services|contact|signin|signup|manage)",
+      "destination": "/index.html"
+    }
+  ]
+}
